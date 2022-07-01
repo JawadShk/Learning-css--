@@ -1,0 +1,114 @@
+/* #p2{
+    color: teal;
+}
+.green-text{
+    color: green;
+}
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+}
+.text-underline{
+    text-decoration: underline;
+}
+#bg{
+    /* text-align: justify;
+    background-image: url(images/ClimateChange.webp);
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: 100% 100%;
+    background-attachment: fixed; */
+
+    /* using 2 images */
+    
+    /* background-image: url(images/2uI4s3-honeycomb-grid-hexagon-patterns-free-psd-vector-icons.png), url(images/kisspng-flower-pattern-gambar-bunga-floral-pattern-transparent-5ab1bc1a26f340.1381970015215974661595.jpg);
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-position: right top, left bottom;
+    text-align: justify; 
+} */
+
+/* #border{
+     border-style: solid dotted;
+     border-width: 5px 10px;
+     border-color: red blue green violet;  
+    border: 5px solid red; 
+
+    border-bottom-style: dotted;
+    border-bottom-width: 5px;
+    border-bottom-color: turquoise; 
+    
+    border-radius: 50%; 
+    border-top-left-radius: 10px; 
+
+} */
+
+/* #div1{
+    background-color:skyblue;
+    height: 500px; ;
+    width: 50%;
+    max-width: 300px;
+    min-width: 200px;
+    max-height: 100px;
+    min-height: 300px;
+} */
+
+/* #div1{
+    border: 2px solid green;
+     padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding: 50px;
+    padding: 50px 100px; 
+    padding: 30px 30px 30px 30px;
+} */
+
+/* .div1{
+    border: 2px solid red;
+    padding: 30px;
+} */
+/* body{
+    border:5px darkblue dotted;
+} */
+/* #margin{
+     margin-top: -10px;
+     margin-bottom: 20px;
+     margin-left: 10px; 
+    margin-right: 10px;
+     margin: 20px 50px 20px 50px;  
+
+     width: 200px;
+     margin: 20px auto ;
+     margin-top: 30px;
+} */
+/*
+ .colps{
+    margin-bottom: 90px;
+} */
+/*.div1{
+     width: 500px;
+    border: 2px solid black;
+    color: sandybrown;
+    /*text-align:justify;  right,left,center,justify  
+    color: palevioletred; 
+    direction: rtl; ltr(for arabic/urdu lang
+    text-decoration: line-through; over-line under-line none 
+    text-transform: capitalize; upper-case lower-case none
+    line-height: 30px;
+    text-indent: 30px;
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    white-space: nowrap; pre
+    word-wrap: break-word;
+    
+}*/
+.div3{
+    font-size: 50px;
+    text-shadow: 11px 10px 5px blue;
+    writing-mode:vertical-lr;
+}
+/* img{
+    border: 1px solid black;
+    vertical-align: middle; top , bottom
+} */
